@@ -1,4 +1,4 @@
-#Import all the packages 
+#Import all the packages
 import openai
 from transformers import AutoTokenizer, AutoModel
 import requests
